@@ -1,0 +1,10 @@
+Footer {
+    background-color: rgb(26, 26, 197);
+    padding: 8px;
+    text-align: center;
+}
+
+.footer-text {
+    color: rgb(255, 0, 0);
+    font-family: sans-serif;
+}
